@@ -1,0 +1,7 @@
+{
+  "name": "FROG",
+  "description": "$FROG on TON",
+  "symbol": "FROG",
+  "image": "https://raw.githubusercontent.com/FROGonTON/FROG/main/frog.png",
+  "decimals": "9"
+}
